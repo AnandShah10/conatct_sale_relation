@@ -16,6 +16,6 @@ Contact Sale relation (many2many)
         'views/views.xml',
     ],
     'installable': True,
-    'application': True,
+    'application': False,
     'license': 'LGPL-3',
 }
